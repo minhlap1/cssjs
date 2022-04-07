@@ -1,5 +1,5 @@
 
-	var url_popup = 'https://duanlananh7bmorong.blogspot.com/2022/04/j.html;
+	var url_popup = 'https://duanlananh7bmorong.blogspot.com/2022/04/j.html';
 
       //<![CDATA[
 	  // var url_ppp = 'http://bit.ly/1KmPNYe';
